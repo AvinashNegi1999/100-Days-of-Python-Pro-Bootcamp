@@ -1,0 +1,1 @@
+print("hello"+" "+ avininput("what is your name?"))
