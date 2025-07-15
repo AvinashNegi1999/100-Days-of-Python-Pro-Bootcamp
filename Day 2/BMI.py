@@ -10,4 +10,4 @@ weight = 84
 # Calculate the bmi using weight and height.
 bmi =weight/height**2
 
-print(round(bmi))
+print(round(bmi,1))
