@@ -1,4 +1,5 @@
-# treassure island project
+# Treasure Island Game 🏴‍☠️
+# A simple text-based adventure game with ASCII art.
 
 print(''' 
 *******************************************************************************
@@ -15,30 +16,84 @@ print('''
 |                   | |o;    `"-.o`"=._``  '` " ,__.--o;   |
 |___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
 ____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
-/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
-____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
-/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
-____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_  
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____  
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_  
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____  
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 *******************************************************************************
-      ''')
-print("welcome to treassure island \nyour mission is to find the treassure.")
+''')
 
-direction=input(" do you want to go left or right? L or R: ").lower()
+print("Welcome to Treasure Island.\nYour mission is to find the treasure.")
 
-if direction=="l":
-    choice=input("do you want to swin or wait? S or W: ").lower()
-    if choice=="w":
-        door=input("which door you want to choose, red, blue or yellow? R or B or Y: ").lower()
-        if door=="y":
-            print("congratulation you won the game.")
-        elif door=="r":
-            print("you burned by fire.")
+direction = input("Do you want to go left or right? L or R: ").lower()
+
+if direction == "l":
+    choice = input("Do you want to swim or wait? S or W: ").lower()
+    
+    if choice == "w":
+        door = input("Which door do you choose? Red, Blue or Yellow? R or B or Y: ").lower()
+        
+        if door == "y":
+            print('''
+╔══════════════════════════════════╗
+║ 🏆 CONGRATULATIONS, YOU FOUND THE TREASURE! 🏆 ║
+╚══════════════════════════════════╝
+             __________
+            /\\____;;___\\
+           | /         /
+           `. ())oo() .
+            |\\(%()*^^()^\\
+           %| |-%-------|
+          % \\ | %  ))   |
+          %  \\|%________|
+            __||__||__||
+           (__)__)__)__)
+''')
+        elif door == "r":
+            print('''
+🔥 You opened the red door and got burned by fire! 🔥
+
+              (  .      )
+          )           (              )
+                .  '   .   '  .  '  .
+       (    , )       (.   )  (   ',    )
+        .' ) ( . )    ,  ( ,     )   ( .
+     ). , ( .   (  ) ( , ')  .' (  ,    )
+    (_,) . ), ) _) _,')  (, ) '. )  ,. (' )
+''')
         else:
-            print("eaten by beasts.")
+            print('''
+🐺 You opened the blue door and were eaten by beasts! 🐺
 
+      ,     ,      
+     (\\____/)     
+      (_oo_)      
+        (O)       
+      __||__     \\) 
+   []/______\\[] /
+   / \\______/ \\
+  /    /__\\    
+ (\\   /____\\
+''')
     else:
-        print("attacked by trout.")
-else:
-    print("fall into a hole.")    
+        print('''
+🌊 You chose to swim and were attacked by trout! 🌊
 
+        ~ ~ ~ ~ ~
+     ><(((*>    ><(((*>    ><(((*>
+        ~ ~ ~ ~ ~
+''')
+else:
+    print('''
+🕳️ You went right and fell into a hole! Game Over. 🕳️
+
+         \\  |  /
+           .-'-. 
+        -- /   \\ --
+           \\___/
+          ( . . )
+          (  -  )
+         _(   )_
+        /       \\
+''')
