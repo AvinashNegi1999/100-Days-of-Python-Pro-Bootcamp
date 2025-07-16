@@ -1,5 +1,5 @@
-# Treasure Island Game 🏴‍☠️
-# A simple text-based adventure game with ASCII art.
+# Treasure Island Game
+# A text-based adventure game with ASCII art and input validation.
 
 print(''' 
 *******************************************************************************
@@ -36,9 +36,8 @@ if direction == "l":
         
         if door == "y":
             print('''
-╔══════════════════════════════════╗
-║ 🏆 CONGRATULATIONS, YOU FOUND THE TREASURE! 🏆 ║
-╚══════════════════════════════════╝
+CONGRATULATIONS, YOU FOUND THE TREASURE!
+
              __________
             /\\____;;___\\
            | /         /
@@ -52,7 +51,7 @@ if direction == "l":
 ''')
         elif door == "r":
             print('''
-🔥 You opened the red door and got burned by fire! 🔥
+You opened the red door and got burned by fire.
 
               (  .      )
           )           (              )
@@ -61,10 +60,12 @@ if direction == "l":
         .' ) ( . )    ,  ( ,     )   ( .
      ). , ( .   (  ) ( , ')  .' (  ,    )
     (_,) . ), ) _) _,')  (, ) '. )  ,. (' )
+
+GAME OVER.
 ''')
-        else:
+        elif door == "b":
             print('''
-🐺 You opened the blue door and were eaten by beasts! 🐺
+You opened the blue door and were eaten by beasts.
 
       ,     ,      
      (\\____/)     
@@ -75,18 +76,26 @@ if direction == "l":
    / \\______/ \\
   /    /__\\    
  (\\   /____\\
+
+GAME OVER.
 ''')
-    else:
+        else:
+            print("Invalid door choice. Game Over.")
+    elif choice == "s":
         print('''
-🌊 You chose to swim and were attacked by trout! 🌊
+You chose to swim and were attacked by trout.
 
         ~ ~ ~ ~ ~
      ><(((*>    ><(((*>    ><(((*>
         ~ ~ ~ ~ ~
+
+GAME OVER.
 ''')
-else:
+    else:
+        print("Invalid action. Game Over.")
+elif direction == "r":
     print('''
-🕳️ You went right and fell into a hole! Game Over. 🕳️
+You went right and fell into a hole.
 
          \\  |  /
            .-'-. 
@@ -96,4 +105,8 @@ else:
           (  -  )
          _(   )_
         /       \\
+
+GAME OVER.
 ''')
+else:
+    print("Invalid direction. Game Over.")
