@@ -23,18 +23,14 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 ---
 ## 🗂️ Folder Structure
 
-```
-100-Days-of-Python-Code-challenge/
+```100-Days-of-Python-Code-challenge/
 ├── Day 1/
-│   └── band_name_generator.py
 ├── Day 2/
-│   └── tip_calculator.py
 ├── Day 3/
-│   └── treasure_island.py
 ├── Day 4/
-│   └── rock_paper_scissors.py
 ├── Day 5/
-│   └── password_generator.py
+├── ...
+├── Day 100/
 └── README.md
 ```
 
