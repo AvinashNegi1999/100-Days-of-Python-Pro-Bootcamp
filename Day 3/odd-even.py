@@ -1,7 +1,0 @@
-# odd and even number
-num=int(input("enter the natural number: "))
-
-if num%2==0:
-    print("number is even.")
-else:
-    print("number is odd.")
