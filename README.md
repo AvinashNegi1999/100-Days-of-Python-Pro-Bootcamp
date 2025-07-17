@@ -1,4 +1,7 @@
+<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
+</h1>
 <div align="center">
-  <img width="500" height="400" alt="625c5997-09a1-4d87-979f-fd9856126b69" src="https://github.com/user-attachments/assets/84e79e96-c1e4-46b2-abe1-70ca13a3ce19" />
+ <img width="500" height="500" alt="3d0bbdc3-b828-478b-a0ec-566eb2b8d124" src="https://github.com/user-attachments/assets/89223538-4f16-4d32-81e8-222dbdf9e8c4" />
 </div>
+
 
