@@ -22,4 +22,38 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 
 ---
 
-## 🗂️ Folder Structure
+
+## 🧠 What I'm Learning
+
+- ✅ Python Basics & Syntax
+- ✅ Functions, Loops, and Conditionals
+- 🔄 OOP and Modular Programming
+- ⏳ APIs, Flask, Web Scraping
+- ⏳ GUI with Tkinter, Automation
+
+---
+
+## 🚀 Goals
+
+- Build 100 Python projects in 100 days
+- Document everything in this GitHub repo
+- Become strong in Python & problem solving
+
+---
+
+## 🛠 Tools
+
+- Python 3.x
+- Replit / VS Code / PyCharm
+- Git & GitHub
+
+---
+
+## 🙌 Let's Connect
+
+- 📍 Uttarakhand, India  
+- 🔗 [GitHub Profile](https://github.com/AvinashNegi1999)
+
+---
+
+> ⭐ If you like this project, feel free to **star** this repo and follow my journey!
