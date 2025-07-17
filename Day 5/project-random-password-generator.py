@@ -1,4 +1,4 @@
-#project to make random password generator
+#project to make random Pypassword generator
 
 import random
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
