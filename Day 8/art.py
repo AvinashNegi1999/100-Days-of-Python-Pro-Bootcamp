@@ -14,7 +14,7 @@ logo='''
        +------------------------------+     
        |     PLAINTEXT:  HELLO        |     
        |     SHIFT:      +3           |     
-       |     CIPHERTEXT: KHOOR        |     
+       |     CIPHERTEXT: KHOOR        |     .
        +------------------------------+     
 
 

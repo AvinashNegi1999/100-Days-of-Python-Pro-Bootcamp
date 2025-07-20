@@ -10,5 +10,5 @@ logo = '''
                          /_________\\
                        .-------------.
                       /_______________\\
-        🪙  WELCOME TO THE SECRET BIDDING PROGRAM  🪙
+        🪙  WELCOME TO THE SECRET BIDDING PROGRAM.  🪙
 '''

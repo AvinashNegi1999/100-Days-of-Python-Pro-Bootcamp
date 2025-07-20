@@ -1,7 +1,7 @@
 # Import the ASCII art logo from art.py
 from art import logo
 
-# Print the welcome logo
+# Print the welcome logo.
 print(logo)
 
 # Function to find the highest bidder from the bidding dictionary
