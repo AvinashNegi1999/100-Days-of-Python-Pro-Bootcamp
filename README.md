@@ -11,11 +11,11 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 ## 🗂️ Folder Structure
 
 ```100-Days-of-Python-Code-challenge/
-├── Day 1/
-├── Day 2/
-├── Day 3/
-├── Day 4/
-├── Day 5/
+├── Day 001/
+├── Day 002/
+├── Day 003/
+├── Day 004/
+├── Day 005/
 ├── ...
 ├── Day 100/
 └── README.md
