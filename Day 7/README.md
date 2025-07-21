@@ -1,4 +1,4 @@
-# Day 7 - Hangman
+# Day 7 - Hangman.
 ## Concepts Practised
 - How to break a Complex Problem down into a Flow Chart
 - How to Check the User's Answer
