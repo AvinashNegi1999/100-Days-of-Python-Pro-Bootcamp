@@ -17,4 +17,5 @@ Built an interactive number guessing game with adjustable difficulty.
 - Creating reusable functions
 - Managing scope and variable lifespan
 - Clean loop control and exit logic
+---
 ![chrome_5mYTT6d6Gi](https://github.com/user-attachments/assets/5b9d88af-489d-4d3c-88b5-d78d3eecef81)
