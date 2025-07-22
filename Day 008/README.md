@@ -19,4 +19,5 @@ Created an encoder and decoder for messages using the Caesar Cipher technique.
 - Reusing code through functions
 - Using loops for user interaction
 - Managing scope and variable flow
+---
 ![chrome_XDjpDPkZRu](https://github.com/user-attachments/assets/9f58204a-4fac-4121-86b2-a49e28ff5a95)
