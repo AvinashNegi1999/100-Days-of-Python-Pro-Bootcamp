@@ -13,7 +13,7 @@ Built an interactive number guessing game with adjustable difficulty.
 - Game ends immediately on correct guess
 
 ### Key Learnings:
-- Using `global` variables responsibly
+- Using global variables responsibly
 - Creating reusable functions
 - Managing scope and variable lifespan
 - Clean loop control and exit logic
