@@ -20,33 +20,30 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 ├── Day 100/
 └── README.md
 ```
-
 ---
-# 🐍 100 Days of Python Pro Bootcamp – Roadmap
-
 ## 🧑‍💻 Beginner (Day 001–014)
-**📅 [Day 001 – Band Name Generator](link)** – Variables, input(), string manipulation.  
-**📅 [Day 002 – Tip Calculator](link)** – Data types, operations, f-strings.  
-**📅 [Day 003 – Treasure Island Hunt](link)** – Control flow, logical operators.  
-**📅 [Day 004 – Rock, Paper, Scissors](link)** – random, lists.  
-**📅 [Day 005 – Password Generator](link)** – loops, range, control flow.  
-**📅 [Day 006 – Escaping the Maze](link)** – functions, while loop.  
-**📅 [Day 007 – Hangman](link)** – loops, lists, strings.  
-**📅 [Day 008 – Caesar Cipher](link)** – function parameters.  
-**📅 [Day 009 – Silent Auction Program](link)** – dictionaries, nesting.  
-**📅 [Day 010 – Text-based Calculator](link)** – functions with outputs, docstrings.  
-**📅 [Day 011 – Blackjack Game](link)** – game logic, loops.  
-**📅 [Day 012 – Number Guessing Game](link)** – scope, user input game.  
-**📅 [Day 013 – Debugging: Finding and Fixing Errors](link)** – tracing, debugging methods.  
-**📅 [Day 014 – Higher Lower Game](link)** – comparison game, conditionals.
+**📅 [Day 001 – Band Name Generator](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20001)** – Variables, input(), string manipulation.  
+**📅 [Day 002 – Tip Calculator](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20002)** – Data types, operations, f-strings.  
+**📅 [Day 003 – Treasure Island Hunt](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20003)** – Control flow, logical operators.  
+**📅 [Day 004 – Rock, Paper, Scissors](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20004)** – random, lists.  
+**📅 [Day 005 – Password Generator](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20005)** – loops, range, control flow.  
+**📅 [Day 006 – Escaping the Maze](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20006)** – functions, while loop.  
+**📅 [Day 007 – Hangman](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20007)** – loops, lists, strings.  
+**📅 [Day 008 – Caesar Cipher](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20008)** – function parameters.  
+**📅 [Day 009 – Silent Auction Program](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20009)** – dictionaries, nesting.  
+**📅 [Day 010 – Text-based Calculator](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20010)** – functions with outputs, docstrings.  
+**📅 [Day 011 – Blackjack Game](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20011)** – game logic, loops.  
+**📅 [Day 012 – Number Guessing Game](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20012)** – scope, user input game.  
+**📅 [Day 013 – Debugging: Finding and Fixing Errors](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20013)** – tracing, debugging methods.  
+**📅 [Day 014 – Higher Lower Game](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20014)** – comparison game, conditionals.
 
-## 🧠 Intermediate (Day 015–058)
-**📅 [Day 015 – Coffee Machine Project](link)** – refactoring, functions, simulation.  
-**📅 [Day 016 – Coffee Machine in OOP](link)** – classes, methods.  
-**📅 [Day 017 – Quiz Game](link)** – OOP, questions, scoring.  
-**📅 [Day 018 – Hirst Painting](link)** – Turtle graphics, modules.  
-**📅 [Day 019 – Etch a Sketch & Turtle Racing](link)** – event listeners, turtle.  
-**📅 [Day 020 – Snake Game Part 1](link)** – animations, coordinates.
+## 🧠 Intermediate (Day 015–020)
+**📅 [Day 015 – Coffee Machine Project](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20015)** – refactoring, functions, simulation.  
+**📅 [Day 016 – Coffee Machine in OOP](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20016)** – classes, methods.  
+**📅 [Day 017 – Quiz Game](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20017)** – OOP, questions, scoring.  
+**📅 [Day 018 – Hirst Painting](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20018)** – Turtle graphics, modules.  
+**📅 [Day 019 – Etch a Sketch & Turtle Racing](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20019)** – event listeners, turtle.  
+**📅 [Day 020 – Snake Game Part 1](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20020)** – animations, coordinates.
 
 📌 Stay tuned — more days coming soon!
 
