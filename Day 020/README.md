@@ -17,7 +17,6 @@ Today, I implemented smooth movement in the classic Snake Game using Python's `t
 ### 🐍 Output Preview
 
 > A black screen with a moving snake made of white square blocks.
-
 ---
 
 ![Code_npcDr0Zrar](https://github.com/user-attachments/assets/58c3b8b8-2665-4c64-bedb-de7344dc25ff)
