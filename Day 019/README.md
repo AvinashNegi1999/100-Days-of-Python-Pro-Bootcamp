@@ -28,6 +28,6 @@ The user is prompted to place a bet by selecting a turtle color.
 
 Add logic to make the turtles race with random speeds and display the winner.
 
----
+
 ![Code_6eWmaIZ7Zp](https://github.com/user-attachments/assets/9e009c90-e12c-4b9b-8de7-0aabeca24b4f)
 
