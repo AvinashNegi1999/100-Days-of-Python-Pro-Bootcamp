@@ -1,9 +1,10 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 <div align="center">
- <img width="1536" height="675" alt="c85b203f-292b-4847-b87c-1af348e37c2a (1)" src="https://github.com/user-attachments/assets/10e3cb23-f2a9-4975-9051-6cae7d505f6b" />
+ <img width="1536" height="613" alt="ChatGPT Image Jul 30, 2025, 05_04_16 PM (1)" src="https://github.com/user-attachments/assets/51d3d94e-db99-42ce-b3b0-aa09caffc43a" />
 </div>
 # 🐍 100 Days of Python Code Challenge
+
 
 Welcome! I'm **Avinash**, and this repository documents my learning journey through the **[100 Days of Code: Python Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)**.
 
