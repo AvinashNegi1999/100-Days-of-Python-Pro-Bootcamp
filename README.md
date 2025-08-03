@@ -1,9 +1,25 @@
-<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
+<h1 align="center">
+  <strong>
+    100-DAYS-OF-PYTHON-PRO<br>BOOTCAMP
+  </strong>
 </h1>
-<div align="center">
- <img width="1536" height="613" alt="ChatGPT Image Jul 30, 2025, 05_04_16 PM (1)" src="https://github.com/user-attachments/assets/51d3d94e-db99-42ce-b3b0-aa09caffc43a" />
-</div>
-# 🐍 100 Days of Python Code Challenge
+
+<p align="center"><i>Master Python Skills, Build Your Future Today</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/AvinashNegi1999/100-Days-of-Python-Code-challenge?style=for-the-badge&color=007bff&logo=github" />
+  <img src="https://img.shields.io/badge/python-100.0%25-007bff?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/languages-1-007bff?style=for-the-badge&logo=code" />
+</p>
+
+<br/>
+
+<p align="center"><i>Built with the tools and technologies:</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 
 Welcome! I'm **Avinash**, and this repository documents my learning journey through the **[100 Days of Code: Python Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)**.
@@ -50,15 +66,12 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 
 
 ---
+## 🧠 What I Have Learned (Till Day 20)
 
-## 🧠 What I'm Learning
-
-- ✅ Python Basics & Syntax
-- ✅ Functions, Loops, and Conditionals
-- 🔄 OOP and Modular Programming
-- ⏳ APIs, Flask, Web Scraping
-- ⏳ GUI with Tkinter, Automation
-
+- ✅ Python basics & syntax  
+- ✅ Functions & loops  
+- ✅ Lists & random  
+- 🔄 Scope & debugging  
 ---
 
 ## 🚀 Goals
