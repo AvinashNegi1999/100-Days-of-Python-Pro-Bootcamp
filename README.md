@@ -7,7 +7,7 @@
 <p align="center"><i>Master Python Skills, Build Your Future Today</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/last%20commit-last%20friday-007bff?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/github/last-commit/AvinashNegi1999/100-Days-of-Python-Code-challenge?style=for-the-badge&color=007bff&logo=github" />
   <img src="https://img.shields.io/badge/python-100.0%25-007bff?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/languages-1-007bff?style=for-the-badge&logo=code" />
 </p>
