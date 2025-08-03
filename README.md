@@ -66,15 +66,12 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 
 
 ---
+## 🧠 What I Have Learned (Till Day 20)
 
-## 🧠 What I'm Learning
-
-- ✅ Python Basics & Syntax
-- ✅ Functions, Loops, and Conditionals
-- 🔄 OOP and Modular Programming
-- ⏳ APIs, Flask, Web Scraping
-- ⏳ GUI with Tkinter, Automation
-
+- ✅ Python basics & syntax  
+- ✅ Functions & loops  
+- ✅ Lists & random  
+- 🔄 Scope & debugging  
 ---
 
 ## 🚀 Goals
