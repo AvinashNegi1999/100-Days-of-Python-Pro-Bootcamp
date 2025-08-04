@@ -209,8 +209,6 @@ Final projects integrating multiple skills for portfolio.
 ## Notes
 - **Course Structure**: Each day includes lessons, exercises, quizzes, and often a project. Days may take longer than 24 hours due to complexity.
 - **Projects**: Includes 100 projects, with key ones like Hangman (Day 7), Blackjack (Day 11), Snake (Day 20-21), and capstones (Day 98-100).
-- **GitHub Links**: Links follow `Day%20XXX` from [100-Days-of-Python-Pro-Bootcamp](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp). Verify links, as some days may not exist or differ in structure.
-- **Updates**: Course is updated frequently; some days (e.g., around Day 40) may have outdated content (e.g., Mongoose callbacks), but Angela provides notes.
 - **Resources**: Check [Udemy](https://www.udemy.com/course/100-days-of-code/) for latest details and pricing.
 
 ---
