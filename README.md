@@ -206,10 +206,31 @@ Final projects integrating multiple skills for portfolio.
 | Day 99 | Project: Capstone Part 2| Add advanced features to capstone    | [Day 099](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20099) |
 | Day 100| Project: Capstone Final| Complete capstone, e.g., ML model    | [Day 100](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20100) |
 
-## Notes
+## 📝 Notes
+
 - **Course Structure**: Each day includes lessons, exercises, quizzes, and often a project. Days may take longer than 24 hours due to complexity.
-- **Projects**: Includes 100 projects, with key ones like Hangman (Day 7), Blackjack (Day 11), Snake (Day 20-21), and capstones (Day 98-100).
+- **Projects**: Includes 100 projects, with key ones like **Hangman (Day 7)**, **Blackjack (Day 11)**, **Snake Game (Day 20–21)**, and **capstones (Day 98–100)**.  
+    You’ll build fun, hands-on applications such as:
+
+    - 📈 **Tip Calculator** (Day 2)  
+    - 🔐 **Password Generator** (Day 5)  
+    - 🎮 **Higher or Lower Game** (Day 14)  
+    - 🃏 **Coffee Machine Simulation** (Day 15)  
+    - 🧠 **Quiz App with GUI** (Day 34–35)  
+    - 🪄 **Flashcard Learning Tool** (Day 31)  
+    - 🧾 **Pomodoro Timer** (Day 28)  
+    - 🎨 **Spotify Playlist Maker using API** (Day 42)  
+    - 🔍 **Web Scraper** (Day 45)  
+    - 🧪 **Rain Alert using SMS** (Day 36)  
+    - 🖼️ **Image Watermarking App** (Day 84)  
+    - 🌍 **Blog Website with Flask** (Days 59–63)  
+    - 🗂️ **Authentication & User Login System** (Day 68–69)  
+    - 📬 **Newsletter Signup with Mailchimp API** (Day 72)  
+    - 💻 **Portfolio Website Deployment** (Day 81–82)  
+    - 🚀 **Final Capstone Projects** (Days 98–100) – where you combine everything you’ve learned
+
 - **Resources**: Check [Udemy](https://www.udemy.com/course/100-days-of-code/) for latest details and pricing.
+
 
 ---
 ## 🧠 What I Have Learned (Till Day 20)
