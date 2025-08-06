@@ -7,7 +7,7 @@ import time
 
 # Create the game screen
 screen = Screen()
-screen.bgcolor("black")                # Set background color to black
+screen.bgcolor("#0a0a23")            # Set background color to black
 screen.setup(width=800, height=600)    # Set screen size
 screen.title("Pong Game")              # Title of the window
 screen.tracer(0)                       # Turn off automatic screen updates (we will update it manually)

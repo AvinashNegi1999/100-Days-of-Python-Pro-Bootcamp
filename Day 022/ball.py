@@ -7,7 +7,7 @@ class Ball(Turtle):
     def __init__(self):
         super().__init__()                # Call the Turtle's constructor
         self.shape("square")             # Set the shape of the ball
-        self.color("white")              # Set the color of the ball
+        self.color("yellow")              # Set the color of the ball
         self.penup()                     # Don't draw lines when the ball moves
         self.x_move = 10                 # How much the ball moves in the x direction
         self.y_move = 10                 # How much the ball moves in the y direction

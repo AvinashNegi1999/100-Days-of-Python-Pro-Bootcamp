@@ -4,7 +4,7 @@ class Paddle(Turtle):
     def __init__(self, position):
         super().__init__()
         self.shape("square")  # Makes the paddle a square shape
-        self.color("white")   # Paddle color is white
+        self.color("cyan")   # Paddle color is white
         self.shapesize(stretch_wid=5, stretch_len=1)  # Makes the square tall like a paddle
         self.penup()  # So it doesn't draw a line when moving
         self.goto(position)  # Starts the paddle at the given position
