@@ -38,7 +38,7 @@ Welcome! I'm **Avinash**, and this repository documents my learning journey thro
 └── README.md
 ```
 ## MY PROGRESS
-![100 Days of Code Progress](./100_days_of_code.svg)
+![100 Days of Code Progress](./100_days_of_code_progress.svg)
 
 ---
 # 100 Days of Code: Python Pro Bootcamp - Day-by-Day Overview
