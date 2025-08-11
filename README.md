@@ -216,18 +216,19 @@ Final projects integrating multiple skills for portfolio.
     - 🔐 **Password Generator** (Day 5)  
     - 🎮 **Higher or Lower Game** (Day 14)  
     - 🃏 **Coffee Machine Simulation** (Day 15)  
-    - 🧠 **Quiz App with GUI** (Day 34–35)  
-    - 🪄 **Flashcard Learning Tool** (Day 31)  
     - 🧾 **Pomodoro Timer** (Day 28)  
+    - 🪄 **Flashcard Learning Tool** (Day 31)  
+    - 🧠 **Quiz App with GUI** (Day 34–35)  
+    - 🧪 **Rain Alert using SMS** (Day 36)  
     - 🎨 **Spotify Playlist Maker using API** (Day 42)  
     - 🔍 **Web Scraper** (Day 45)  
-    - 🧪 **Rain Alert using SMS** (Day 36)  
-    - 🖼️ **Image Watermarking App** (Day 84)  
     - 🌍 **Blog Website with Flask** (Days 59–63)  
     - 🗂️ **Authentication & User Login System** (Day 68–69)  
     - 📬 **Newsletter Signup with Mailchimp API** (Day 72)  
     - 💻 **Portfolio Website Deployment** (Day 81–82)  
-    - 🚀 **Final Capstone Projects** (Days 98–100) – where you combine everything you’ve learned
+    - 🖼️ **Image Watermarking App** (Day 84)  
+    - 🚀 **Final Capstone Projects** (Days 98–100) – where you combine everything you’ve learned  
+
 
 - **Resources**: Check [Udemy](https://www.udemy.com/course/100-days-of-code/) for latest details and pricing.
 
