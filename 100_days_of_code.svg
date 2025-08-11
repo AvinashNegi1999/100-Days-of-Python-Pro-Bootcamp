@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <style>
+    /* Progress bar animation */
+    .progress-fill {
+      stroke-dasharray: 500;
+      stroke-dashoffset: 500;
+      animation: fill-progress 4s ease-in-out forwards;
+    }
+    @keyframes fill-progress {
+      to { stroke-dashoffset: 0; }
+    }
+    /* Rotating code symbols */
+    .code-icon {
+      transform-origin: center;
+      animation: rotate 10s linear infinite;
+    }
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    /* Text fade-in */
+    .title-text, .subtitle-text {
+      opacity: 0;
+      animation: fadeIn 2s ease-in forwards;
+      animation-delay: 1s;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+    /* Styling */
+    .bg { fill: #f0f4f8; }
+    .progress-bg { fill: none; stroke: #e0e0e0; stroke-width: 10; }
+    .progress-fill { fill: none; stroke: #4CAF50; stroke-width: 10; }
+    .code-icon { fill: #007ACC; }
+    .title-text { font-family: Arial, sans-serif; font-size: 36px; fill: #333; font-weight: bold; }
+    .subtitle-text { font-family: Arial, sans-serif; font-size: 24px; fill: #555; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="600" height="400"/>
+
+  <!-- Progress bar (rectangle outline with animated fill) -->
+  <rect class="progress-bg" x="50" y="150" width="500" height="50" rx="25"/>
+  <rect class="progress-fill" x="50" y="150" width="500" height="50" rx="25"/>
+
+  <!-- Rotating code symbols (Python-inspired snake and curly braces) -->
+  <g class="code-icon" transform="translate(100, 100)">
+    <path d="M10,20 C10,10 20,0 30,0 C40,0 50,10 50,20 C50,30 40,40 30,40 C20,40 10,30 10,20 Z M15,20 A5,5 0 0,1 25,20 A5,5 0 0,1 15,20 Z"/>
+  </g>
+  <g class="code-icon" transform="translate(500, 100)">
+    <path d="M10,0 L0,0 L0,40 L10,40 L10,30 L5,30 L5,10 L10,10 L10,0 Z M40,0 L50,0 L50,10 L45,10 L45,30 L50,30 L50,40 L40,40 L40,0 Z"/>
+  </g>
+
+  <!-- Animated text -->
+  <text class="title-text" x="300" y="80" text-anchor="middle">100 Days of Code</text>
+  <text class="subtitle-text" x="300" y="300" text-anchor="middle">by Angela Yu</text>
+</svg>
