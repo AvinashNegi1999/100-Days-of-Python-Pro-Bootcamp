@@ -29,7 +29,9 @@ turtle.shape(image)  # Set the turtle shape to the map image
 
 # ----------------------- Data Setup -----------------------
 # Read the CSV file containing the list of states and their coordinates
-data = pandas.read_csv("C:/Users/avina/OneDrive/Documents/GitHub/100-Days-of-Python-Code-challenge/Day 025/50_states.csv")
+data = pandas.read_csv(
+    "C:/Users/avina/OneDrive/Documents/GitHub/100-Days-of-Python-Code-challenge/Day 025/50_states.csv"
+)
 
 # Extract the list of all state names for validation
 all_states = data.state.to_list()
@@ -49,7 +51,7 @@ while len(guessed_states) < 50:
     # Prompt the user to input a state name, showing current score in the title bar
     answer_state = screen.textinput(
         title=f"{len(guessed_states)}/50 States Correct",
-        prompt="What's another state's name?"
+        prompt="What's another state's name?",
     )
 
     # Proceed only if the user provided some input (not cancelled)
@@ -60,7 +62,9 @@ while len(guessed_states) < 50:
         # If user types 'Exit', save missing states and end the game
         if answer_state == "Exit":
             # Create a list of states not yet guessed
-            missing_states = [state for state in all_states if state not in guessed_states]
+            missing_states = [
+                state for state in all_states if state not in guessed_states
+            ]
             # Save missing states to CSV file in the script directory
             pandas.DataFrame(missing_states).to_csv(output_path)
             break  # Exit the loop and end the game
@@ -77,9 +81,9 @@ while len(guessed_states) < 50:
 
             # Create a turtle to write the state name on the map
             marker = turtle.Turtle()
-            marker.hideturtle()   # Hide the turtle cursor
-            marker.penup()        # Lift the pen to move without drawing lines
-            marker.goto(x, y)     # Move the turtle to the state's coordinates
+            marker.hideturtle()  # Hide the turtle cursor
+            marker.penup()  # Lift the pen to move without drawing lines
+            marker.goto(x, y)  # Move the turtle to the state's coordinates
             marker.write(answer_state)  # Write the state name on the map
 
 # Keep the turtle graphics window open after the game ends
