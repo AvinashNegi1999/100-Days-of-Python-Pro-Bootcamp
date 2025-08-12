@@ -238,12 +238,13 @@ Final projects integrating multiple skills for portfolio.
 
 ---
 
-## 🧠 What I Have Learned (Till Day 20)
+## 🧠 What I Have Learned (Till Day 25)
 
-- ✅ Python basics & syntax  
-- ✅ Functions & loops  
-- ✅ Lists & random  
-- 🔄 Scope & debugging  
+* ✅ Python basics, functions & loops
+* ✅ Lists, random & debugging
+* ✅ OOP concepts: classes, inheritance, polymorphism
+* ✅ Exception handling & file I/O
+* ✅ Modules & imports
 ---
 
 ## 🚀 Goals
