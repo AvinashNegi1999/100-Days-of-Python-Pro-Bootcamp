@@ -22,7 +22,7 @@ A simple Pomodoro Timer built with **Tkinter** to manage work and break interval
 **Screenshot:**
 
 ---
-![Code_QH1NiZJpYg](https://github.com/user-attachments/assets/f297bc44-c78a-47e7-b4bc-95da50891849)
+![Code_pIB1zbtHYY](https://github.com/user-attachments/assets/3bd42bd3-071c-4c1b-adaf-ad5728518467)
 
 
 ---
@@ -32,4 +32,5 @@ A simple Pomodoro Timer built with **Tkinter** to manage work and break interval
 * Countdown mechanism updating every second
 * Buttons for **Start** and **Reset**
 * Clean and intuitive GUI
+
 
