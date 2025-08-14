@@ -7,7 +7,7 @@ RED = "#e7305b"  # ? Long break color
 GREEN = "#9bdeac"  # ? Work session color
 YELLOW = "#f7f5dd"  # ? Background color
 FONT_NAME = "Courier"
-WORK_MIN = 25
+WORK_MIN = 0.1  # ? Work session in minutes (0.1 = 6 seconds)
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 
@@ -35,9 +35,9 @@ def start_timer():
     reps += 1  # Track the number of sessions
 
     # * Convert minutes to seconds
-    work_sec = WORK_MIN * 60
-    short_break_sec = SHORT_BREAK_MIN * 60
-    long_break_sec = LONG_BREAK_MIN * 60
+    work_sec = int(WORK_MIN * 60)
+    short_break_sec = int(SHORT_BREAK_MIN * 60)
+    long_break_sec = int(LONG_BREAK_MIN * 60)
 
     # ? Decide which session to start
     if reps % 8 == 0:
@@ -54,7 +54,8 @@ def start_timer():
 # * ---------------------------- COUNTDOWN MECHANISM ------------------------------- #
 def count_down(count):
     """! Countdown mechanism that updates timer every second"""
-    count_min = math.floor(count / 60)
+    count = int(count)  # ! Convert float to int to avoid display issues
+    count_min = count // 60
     count_sec = count % 60
     if count_sec < 10:
         count_sec = f"0{count_sec}"  # Format seconds as 2 digits
@@ -68,7 +69,7 @@ def count_down(count):
 
         # * Update check marks for completed work sessions
         marks = ""
-        for _ in range(math.floor(reps / 2)):
+        for _ in range(reps // 2):
             marks += "✔"
         check_label.config(text=marks, fg=GREEN)  # Check marks in green
 
@@ -81,7 +82,7 @@ window.config(padx=100, pady=50, bg=YELLOW)
 # ? Canvas for tomato image and timer text
 canvas = Canvas(width=200, height=244, bg=YELLOW, highlightthickness=0)
 tomato_png = PhotoImage(
-    file=r"C:\Users\avina\OneDrive\Documents\GitHub\100-Days-of-Python-Code-challenge\Day 029\tomato.png"
+    file=r"C:\Users\avina\OneDrive\Documents\GitHub\100-Days-of-Python-Code-challenge\Day 028\tomato.png"
 )  # Ensure correct path
 canvas.create_image(100, 112, image=tomato_png)
 timer_text = canvas.create_text(
