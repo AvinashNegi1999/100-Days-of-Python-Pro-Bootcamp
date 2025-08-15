@@ -15,5 +15,4 @@ It lets you **store**, **retrieve**, and **generate strong passwords** for diffe
 ## 📷 Screenshot
 
 ---
-![Code_71oZH9lwTO](https://github.com/user-attachments/assets/19246a9b-7ed8-4980-8d53-72b33293604c)
-
+![Code_LbMMVIzMFO](https://github.com/user-attachments/assets/98f2ff9b-38a8-46f9-a975-5962c5395bcf)
