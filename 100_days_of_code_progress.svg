@@ -2,21 +2,19 @@
   <!-- Background -->
   <rect x="10" y="30" width="480" height="20" rx="10" ry="10" fill="#e0f7fa" />
 
-  <!-- Animated progress -->
+  <!-- Animated progress (30%) -->
   <rect x="10" y="30" width="0" height="20" rx="10" ry="10" fill="#80deea">
     <animate 
       attributeName="width" 
       from="0" 
-      to="120" 
+      to="144" 
       dur="2s" 
-      repeatCount="indefinite"
-      values="0;120;0"
-      keyTimes="0;0.5;1"
-    />
+      begin="0s" 
+      fill="freeze" />
   </rect>
 
   <!-- Text label -->
   <text x="250" y="20" text-anchor="middle" font-size="18" font-family="Verdana" fill="#006064">
-    #100DaysOfCode — Day 25/100
+    #100DaysOfCode — Day 30/100
   </text>
 </svg>
