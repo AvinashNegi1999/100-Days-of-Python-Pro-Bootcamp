@@ -1,24 +1,10 @@
 <svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .progress {
-      width: 0;
-      animation: fill 2s infinite;
-      transform-origin: left;
-    }
-
-    @keyframes fill {
-      0% { width: 0; }
-      50% { width: 144px; } /* 30% of 480px */
-      100% { width: 0; }
-    }
-  </style>
-
   <!-- Background -->
   <rect x="10" y="30" width="480" height="20" rx="10" ry="10" fill="#e0f7fa" />
-
-  <!-- Animated progress -->
-  <rect class="progress" x="10" y="30" height="20" rx="10" ry="10" fill="#80deea" />
-
+  <!-- Animated progress (30% of 480 = 144) -->
+  <rect x="10" y="30" width="0" height="20" rx="10" ry="10" fill="#80deea">
+    <animate attributeName="width" from="0" to="144" dur="2s" repeatCount="indefinite" values="0;144;0" keyTimes="0;0.5;1" />
+  </rect>
   <!-- Text label -->
   <text x="250" y="20" text-anchor="middle" font-size="18" font-family="Verdana" fill="#006064">
     #100DaysOfCode — Day 30/100
