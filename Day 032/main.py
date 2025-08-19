@@ -2,7 +2,7 @@
 # BIRTHDAY EMAIL AUTOMATION PROGRAM
 # ============================================================
 # Author   : Avinash Negi
-# Purpose  : Automatically send personalized "Happy Birthday" 
+# Purpose  : Automatically send personalized "Happy Birthday"
 #            emails to people whose birthdays match today’s date.
 # Features :
 #   ✅ Reads birthdays from a CSV file
