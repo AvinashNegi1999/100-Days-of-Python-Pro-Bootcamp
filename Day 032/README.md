@@ -10,7 +10,7 @@ A Python script that automatically sends personalized birthday emails using Gmai
 - Replaces `[NAME]` with recipient’s name
 - Sends email via Gmail SMTP
 
-
+---
 
 ![Code_oJWFgvMg8k](https://github.com/user-attachments/assets/b0378b06-b455-4117-bf68-146e4bbf5e01)
 
