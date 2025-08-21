@@ -76,9 +76,16 @@ graph TD
 
 This table details the daily progression of Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" on Udemy, grouped by thematic/skill-level categories. Beginner and Intermediate Python sections are subdivided into smaller thematic groups. Each day includes topics, projects, and GitHub links.
 
-## Beginner Python (Days 1–14)
+# 100 Days of Python Pro Bootcamp
 
-### Core Basics (Days 1–4)
+A comprehensive Python learning journey from beginner to advanced, organized into collapsible sections for easy navigation.
+
+---
+
+<details>
+<summary><strong>🐣 Beginner Python (Days 1–14)</strong></summary>
+
+## Core Basics (Days 1–4)
 
 Fundamental Python concepts for absolute beginners.
 
@@ -89,7 +96,7 @@ Fundamental Python concepts for absolute beginners.
 | Day 3 | Control Flow          | If/else, comparison operators      | [Day 003](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20003) |
 | Day 4 | Randomization & Lists | Random module, lists, indexing     | [Day 004](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20004) |
 
-### Control Flow & Loops (Days 5–8)
+## Control Flow & Loops (Days 5–8)
 
 Building logic with conditionals, loops, and functions.
 
@@ -100,7 +107,7 @@ Building logic with conditionals, loops, and functions.
 | Day 7 | Project: Hangman        | Build Hangman with loops, conditionals | [Day 007](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20007) |
 | Day 8 | Function Parameters     | Positional/keyword arguments           | [Day 008](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20008) |
 
-### Data Structures & Scope (Days 9–14)
+## Data Structures & Scope (Days 9–14)
 
 Working with dictionaries, scope, and larger projects.
 
@@ -113,9 +120,14 @@ Working with dictionaries, scope, and larger projects.
 | Day 13 | Debugging               | Find/fix errors, use `print()`        | [Day 013](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20013) |
 | Day 14 | Project: Higher Lower   | Compare follower counts, conditionals | [Day 014](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20014) |
 
-## Intermediate Python (Days 15–30)
+</details>
 
-### OOP & Turtle Graphics (Days 15–23)
+---
+
+<details>
+<summary><strong>🚀 Intermediate Python (Days 15–30)</strong></summary>
+
+## OOP & Turtle Graphics (Days 15–23)
 
 Object-oriented programming and graphical projects with Turtle.
 
@@ -131,7 +143,7 @@ Object-oriented programming and graphical projects with Turtle.
 | Day 22 | Project: Pong Game       | Two-player Pong with Turtle          | [Day 022](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20022) |
 | Day 23 | Project: Turtle Crossing | Road-crossing game with Turtle       | [Day 023](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20023) |
 
-### File I/O & GUI (Days 24–30)
+## File I/O & GUI (Days 24–30)
 
 File handling, Tkinter GUI, and related projects.
 
@@ -145,7 +157,12 @@ File handling, Tkinter GUI, and related projects.
 | Day 29 | Project: Password Manager | Password manager with Tkinter, I/O       | [Day 029](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20029) |
 | Day 30 | Error Handling            | Try/except, exception handling           | [Day 030](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20030) |
 
-## Web Scraping & Automation (Days 31–53)
+</details>
+
+---
+
+<details>
+<summary><strong>🌐 Web Scraping & Automation (Days 31–53)</strong></summary>
 
 APIs, web scraping with Beautiful Soup, browser automation with Selenium.
 
@@ -175,7 +192,12 @@ APIs, web scraping with Beautiful Soup, browser automation with Selenium.
 | Day 52 | Project: Instagram Bot     | Automate Instagram follows, Selenium    | [Day 052](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20052) |
 | Day 53 | Project: Scraping Capstone | Advanced scraping with Selenium, Soup   | [Day 053](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20053) |
 
-## Web Development (Days 54–70)
+</details>
+
+---
+
+<details>
+<summary><strong>💻 Web Development (Days 54–70)</strong></summary>
 
 Flask, databases, authentication, and web app deployment.
 
@@ -199,7 +221,12 @@ Flask, databases, authentication, and web app deployment.
 | Day 69 | Project: Auth Blog      | Add authentication to Flask blog          | [Day 069](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20069) |
 | Day 70 | Deploying Flask Apps    | Deploy Flask app to Heroku                | [Day 070](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20070) |
 
-## Data Science & Machine Learning (Days 71–80)
+</details>
+
+---
+
+<details>
+<summary><strong>📊 Data Science & Machine Learning (Days 71–80)</strong></summary>
 
 Data analysis, visualization, and introductory machine learning.
 
@@ -216,7 +243,12 @@ Data analysis, visualization, and introductory machine learning.
 | Day 79 | Seaborn Visualization     | Scatter plots, bubble charts, Seaborn    | [Day 079](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20079) |
 | Day 80 | Project: ML Intro         | Basic ML model with scikit-learn         | [Day 080](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20080) |
 
-## Advanced Projects (Days 81–97)
+</details>
+
+---
+
+<details>
+<summary><strong>🏆 Advanced Projects (Days 81–97)</strong></summary>
 
 Portfolio-building projects across games, apps, and tools.
 
@@ -240,7 +272,12 @@ Portfolio-building projects across games, apps, and tools.
 | Day 96 | Project: Automation        | Advanced automation with Selenium     | [Day 096](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20096) |
 | Day 97 | Project: Game Capstone     | Advanced game, e.g., custom arcade    | [Day 097](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20097) |
 
-## Capstone Projects (Days 98–100)
+</details>
+
+---
+
+<details>
+<summary><strong>🎯 Capstone Projects (Days 98–100)</strong></summary>
 
 Final projects integrating multiple skills for portfolio.
 
@@ -250,7 +287,11 @@ Final projects integrating multiple skills for portfolio.
 | Day 99  | Project: Capstone Part 2 | Add advanced features to capstone        | [Day 099](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20099) |
 | Day 100 | Project: Capstone Final  | Complete capstone, e.g., ML model        | [Day 100](https://github.com/AvinashNegi1999/100-Days-of-Python-Pro-Bootcamp/tree/main/Day%20100) |
 
-## 📝 Notes
+</details>
+
+---
+
+
 
 - **Course Structure**: Each day includes lessons, exercises, quizzes, and often a project. Days may take longer than 24 hours due to complexity.
 - **Projects**: Includes 100 projects, with key ones like **Hangman (Day 7)**, **Blackjack (Day 11)**, **Snake Game (Day 20–21)**, and **capstones (Day 98–100)**.  
