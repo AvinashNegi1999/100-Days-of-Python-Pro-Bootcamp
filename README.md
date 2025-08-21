@@ -22,6 +22,11 @@
 </p>
 
 Welcome! I'm **Avinash**, and this repository documents my learning journey through the **[100 Days of Code: Python Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/)**.
+## 🎯 **Mission Statement**
+
+> **"Code every day, build every project, master every concept"**
+> 
+> This repository chronicles my complete transformation through Dr. Angela Yu's legendary Python Bootcamp - from writing my first `print("Hello World!")` to deploying full-stack web applications.
 
 ## 🗂️ Folder Structure
 
