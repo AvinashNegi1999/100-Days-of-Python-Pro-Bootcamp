@@ -13,10 +13,17 @@
 </p>
 
 ---
-![Status](https://img.shields.io/badge/Status-Ongoing-blue) 
-![Coverage](https://img.shields.io/badge/Coverage-34%25-green) 
-[![wakatime](https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee.svg)](https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee)  
-*My WakaTime Coding Activity*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Ongoing-blue" alt="Status">
+  <img src="https://img.shields.io/badge/Coverage-34%25-green" alt="Coverage">
+  <a href="https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee">
+    <img src="https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee.svg" alt="WakaTime">
+  </a>
+</div>
+
+<p align="center"><em>My WakaTime Coding Activity</em></p>
+
 
 ---
 
