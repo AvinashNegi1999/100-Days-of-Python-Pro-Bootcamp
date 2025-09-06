@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/languages-1-007bff?style=for-the-badge&logo=code" />
 </p>
 
+---
+![Status](https://img.shields.io/badge/Status-Ongoing-blue) 
+![Coverage](https://img.shields.io/badge/Coverage-34%25-green) 
+[![wakatime](https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee.svg)](https://wakatime.com/badge/user/34b6fa9f-9b90-4061-9f3c-1abe9a68f8e8/project/3710c308-1f38-4971-a015-d4ae19e03dee)  
+*My WakaTime Coding Activity*
+
+---
+
 <br/>
 
 <p align="center"><i>Built with the tools and technologies:</i></p>
